@@ -1,0 +1,6 @@
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\bin\Debug\CS_WMF2JPG.exe.config
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\bin\Debug\CS_WMF2JPG.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\bin\Debug\CS_WMF2JPG.pdb
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\obj\Debug\CS_WMF2JPG.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\obj\Debug\CS_WMF2JPG.exe
+C:\Users\jashliao\Desktop\192_168_1_68 API\20210723\SYWEB-V8-Workstation(Delta)\CS_WMF2JPG\obj\Debug\CS_WMF2JPG.pdb
